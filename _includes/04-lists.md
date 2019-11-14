@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Céu :cloud:
+  * Chuva :umbrella:
+* Terra :earth_americas:
+  * Árvores :deciduous_tree:
+* Mar :ocean:
+  * Surfar :surfer:
